@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-19",
+  "written": "2026-10-19T06:20-04:00",
+  "greeting": "Good morning, Mr. Shackelford.",
+  "line": "Monday: quiet inbox, busy calendar by Wednesday.",
+  "sections": [
+    {
+      "title": "Today",
+      "items": [
+        "No events on the calendar"
+      ]
+    },
+    {
+      "title": "School",
+      "items": [
+        "Chess tournament tomorrow (Tue Oct 20)",
+        "Car Buying Project due Wed Oct 21",
+        "Human Geography quiz Oct 27 (review Thu 4 PM)"
+      ]
+    },
+    {
+      "title": "Needs you",
+      "items": [
+        "Connect a social network in Metricool",
+        "Send the English vocab word list",
+        "Real stock counts for the Fidgetly squishies"
+      ]
+    }
+  ]
+}

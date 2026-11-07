@@ -1,0 +1,69 @@
+{
+  "agent": "academic-core",
+  "phase": "idle",
+  "last_run": "2026-10-19T06:20-04:00",
+  "next_run": null,
+  "summary": "Skipped: no new Classroom mail since Oct 16",
+  "alerts": [
+    {
+      "level": "info",
+      "msg": "Human Geography Quiz #2 (Population) is due Oct 27. Review blocks booked Oct 22 and Oct 26, 4:00 PM."
+    },
+    {
+      "level": "info",
+      "msg": "English vocab flashcards still need the word list from Classroom."
+    }
+  ],
+  "metrics": {
+    "deadlines": [
+      {
+        "course": "Regents Biology",
+        "title": "Quiz (15-20 multiple choice)",
+        "due": "2026-10-16",
+        "type": "quiz",
+        "source_subject": "Due tomorrow: \"Study for Quiz on Friday!\""
+      },
+      {
+        "course": "English 10R P2",
+        "title": "Raisin Act Two Scene Two Questions",
+        "due": "2026-10-16",
+        "type": "assignment",
+        "source_subject": "New assignment: \"HW-Raisin Act Two Scene Two Questions\""
+      },
+      {
+        "course": "Human Geography P3",
+        "title": "Quiz #2: Population",
+        "due": "2026-10-27",
+        "type": "quiz",
+        "source_subject": "New assignment: \"Quiz #2: Population\""
+      }
+    ],
+    "study_blocks": [
+      {
+        "title": "Human Geography quiz review (Population)",
+        "start": "2026-10-22T16:00:00-04:00",
+        "end": "2026-10-22T16:45:00-04:00"
+      },
+      {
+        "title": "Human Geography quiz review (Population)",
+        "start": "2026-10-26T16:00:00-04:00",
+        "end": "2026-10-26T16:45:00-04:00"
+      }
+    ],
+    "prep_sets": [
+      {
+        "title": "Geometry Ch3 L1 angle relationships",
+        "cards": 34,
+        "file": "outbox/quizlet/2026-10-15-geometry-ch3-lesson1-angle-relationships.txt"
+      }
+    ],
+    "classroom_feed": "connected",
+    "world": {
+      "bubbles": [
+        "Waiting for Classroom mail"
+      ],
+      "deliveries": 0,
+      "growth": 2
+    }
+  }
+}
